@@ -1,0 +1,7 @@
+# Runtime dependencies used by main.py, test.py, and eval/evaluate.py
+Pillow
+torch
+torchvision
+tqdm
+opencv-python==4.9.0.80
+numpy==1.26

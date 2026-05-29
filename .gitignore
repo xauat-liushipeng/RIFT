@@ -1,0 +1,7 @@
+**/__pycache__
+**/_ignore
+.idea
+/results*/
+/outputs/
+/logs/
+/weights/
