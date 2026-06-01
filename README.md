@@ -120,6 +120,19 @@ python eval.py \
 
 Reported metrics include `mIoU`, `ODS`, `OIS`, `F1`, `Precision`, and `Recall`.
 
+## Citation
+If you are using our RIFT for your research, please cite the following paper:
+```
+@article{liu2026rethinking,
+      title={Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling}, 
+      author={Shipeng Liu and Liang Zhao and Dengfeng Chen and Weihua Zhang},
+      year={2026},
+      eprint={2605.31048},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.31048}, 
+}
+```
 
 ## Acknowledgement
 This project is based on [MixerCSeg](https://github.com/spiderforest/MixerCSeg), thanks for their excellent works.
