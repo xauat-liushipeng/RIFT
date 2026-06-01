@@ -106,6 +106,8 @@ The prediction directory will contain paired files:
 <image_name>_pre.png
 ```
 
+We provide the trained RIFT weights at [RIFT Weights](https://drive.google.com/file/d/1sY3VGl43GN4Dq4h9_8QBlKmE-FDAeiry/view?usp=drive_link), and the inference results for each model at [RIFT results](https://drive.google.com/file/d/1R5BqTf44ZilCwgJQ1SQee_ACMvjZnRp5/view?usp=drive_link).
+
 ## Evaluation
 
 Evaluate a prediction directory from the command line:
